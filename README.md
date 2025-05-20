@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Stats
 
-![Gimye's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimye&show_icons=true&theme=radical)
+![gimye's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimye&count_private=true)
 
 ## 📫 Contact
 
