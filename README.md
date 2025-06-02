@@ -40,6 +40,7 @@
 <br />
 
 ## 📜 Career & Achievements
+<br />
 <div align="center">
   <p>
     <strong>2023.12 ~ 2024.06</strong><br/>
