@@ -49,13 +49,18 @@
   </p>
   <br />
   <p>
-    <strong>2024.09 ~</strong><br/>
-    교내 커뮤니티 동아리 이화이언 웹개발팀 <strong>46기</strong>
+    <strong>2024.09 ~ 2025.12</strong><br/>
+    교내 커뮤니티 동아리 이화이언 웹개발팀 <strong>46기 웹마스터</strong>
   </p>
   <br />
   <p>
-    <strong>2025.03 ~</strong><br/>
+    <strong>2025.03 ~ 2025.12</strong><br/>
     인재개발원 커리어클럽 산하 교내 웹 개발 동아리 <strong>EFUB 백엔드 리드</strong>
+  </p>
+  <br />
+  <p>
+    <strong>2025.09 ~ 2025.12</strong><br/>
+    2025 제15회 피우다프로젝트(장려상 수상) 팀 길동이 <strong>팀장</strong>
   </p>
 </div>
 
