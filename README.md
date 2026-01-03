@@ -62,15 +62,6 @@
 <br />
 <br />
 
-## 📊 GitHub Overview
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=gimye)](https://git.io/streak-stats)
-  </a>
-</div>
-
-<br />
-<br />
 
 ## 📫 Contact
 <div align="center">
