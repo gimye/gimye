@@ -61,22 +61,53 @@
 <table>
 <tr>
 
-<!-- Project Card 1 -->
-<td align="center" width="50%">
+<!-- Project Card 1 : Go! Gildong -->
+<td align="center" width="50%" style="padding:16px">
 
-<img width="418" height="355" alt="스크린샷 2025-12-15 232043" src="https://github.com/user-attachments/assets/98b182d1-1de5-4522-a3e6-b21ac00aeb46" />
+<img
+  alt="고!길동 로고"
+  src="https://github.com/user-attachments/assets/6c7303dd-63f3-4fcc-9e3e-e7e4f44d90ab"
+  style="width:100%; max-width:360px; height:auto; border-radius:12px; background:white; padding:12px;"
+/>
 
 
 ### 🏫 고!길동 (Go! Gildong)
 > 학교 접근성 데이터를 제공하는 웹 서비스
 
 <p>
-고!길동은 이동이 불편한 학생과 보호자를 위해 학교 내부 접근성 데이터를 제공하는 웹 서비스입니다. 시민들의 자발적인 제보로 수집한 초·중·고 및 대학교의 실측 데이터와 현장 사진을 활용하여, 모두에게 차별 없는 교육 환경의 길을 제시합니다.
+이동이 불편한 학생과 보호자를 위해<br/>
+시민 제보 기반 실측·현장 사진 데이터를 활용하여<br/>
+학교 접근성 정보를 제공합니다.
 </p>
 
+<hr/>
+
 <p>
+<strong>Team</strong> : 길동이 &nbsp; | &nbsp;
 <strong>Role</strong> : Team Lead / Backend Lead
 </p>
+
+<hr/>
+
+<p>
+<strong>Tech Stack</strong><br/>
+🧩 <em>Backend</em> : Java 17, Spring Boot, JPA, Lombok, Redis, PostgreSQL<br/>
+☁ <em>DevOps</em> : Docker, AWS EC2, AWS RDS, AWS S3, GitHub Actions
+</p>
+
+<hr/>
+
+<p>
+<strong>Key Contributions</strong><br/>
+🔹 포인트 시스템 구축<br/>
+🔹 관리자 통계 조회 및 출력 기능<br/>
+🔹 전체 / 교내 / 학교별 포인트 랭킹 계산 API<br/>
+🔹 휠체어 관리 기능<br/>
+🔹 퀴즈 시스템 구현<br/>
+🔹 서버 배포 및 아키텍처 관리
+</p>
+
+<hr/>
 
 <p>
 <a href="https://github.com/EFUB-AWA-1/Gogildong_Server">🔗 GitHub</a>  
@@ -85,27 +116,54 @@
 
 </td>
 
-<!-- Project Card 2 -->
-<td align="center" width="50%">
+<!-- Project Card 2 : New Valance -->
+<td align="center" width="50%" style="padding:16px">
 
-<img width="100%" 
-src="https://raw.githubusercontent.com/gimye/gimye/main/assets/project-placeholder.png"
-style="border-radius:12px"/>
+<img
+  alt="New Valance"
+  src="https://github.com/user-attachments/assets/3fa6a514-1055-4679-9262-2c5ed9397401"
+  style="width:100%; max-width:360px; height:auto; border-radius:12px; background:white; padding:12px;"
+/>
 
-### 🚀 Next Project
-> Coming Soon
+
+### 📰 New Valance
+> 뉴스 숏폼 영상 기반 사회 이슈 컨텐츠 제공 서비스
 
 <p>
-추가 예정입니다.
+긴 글 뉴스를 읽기 어려운 현대인을 위해<br/>
+뉴스를 짧은 영상 콘텐츠로 제공하는<br/>
+모바일 기반 뉴스 숏폼 플랫폼입니다.
 </p>
 
-<p>
-<strong>Role</strong> : Backend Developer
-</p>
+<hr/>
 
 <p>
-<a href="#">🔗 GitHub</a>  
-<a href="#">🎥 Demo</a>
+<strong>Team</strong> : 쌈뽕 워리어즈 &nbsp; | &nbsp;
+<strong>Role</strong> : Team Lead / Backend Dev
+</p>
+
+<hr/>
+
+<p>
+<strong>Tech Stack</strong><br/>
+🧩 <em>Backend</em> : Java 17, Spring Boot, JPA, Lombok, MySQL<br/>
+☁ <em>DevOps</em> : Docker, AWS EC2, AWS RDS, AWS S3
+</p>
+
+<hr/>
+
+<p>
+<strong>Key Contributions</strong><br/>
+🔹 백엔드 API 전반 설계 및 구현<br/>
+🔹 서버 배포 및 인프라 구성<br/>
+🔹 아키텍처 관리 및 운영 자동화
+</p>
+
+<hr/>
+
+<p>
+<a href="https://github.com/SSambbongWarriors">🔗 GitHub</a>  
+<a href="https://www.youtube.com/watch?v=heN-_Qy-Jx4">🎥 Demo</a>
 </p>
 
 </td>
@@ -116,6 +174,8 @@ style="border-radius:12px"/>
 </div>
 
 <br/><br/>
+
+
 
 ## 📜 Career & Achievements
 
