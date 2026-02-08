@@ -112,7 +112,7 @@
 </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <!-- ===== Project 2 : New Valance ===== -->
 <table width="100%">
