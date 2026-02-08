@@ -56,23 +56,20 @@
 
 <br/>
 
-<div align="center">
-
-<table>
+<!-- ===== Project 1 : Go! Gildong ===== -->
+<table width="100%">
 <tr>
 
-<!-- Project Card 1 : Go! Gildong -->
-<td align="center" width="50%" style="padding:16px">
+<!-- LEFT : Image + Intro -->
+<td width="45%" align="center" valign="top" style="padding:20px">
 
 <img
-  alt="고!길동 로고"
   src="https://github.com/user-attachments/assets/6c7303dd-63f3-4fcc-9e3e-e7e4f44d90ab"
-  style="width:100%; max-width:360px; height:auto; border-radius:12px; background:white; padding:12px;"
+  style="width:100%; max-width:260px; height:auto; border-radius:12px; background:white; padding:12px;"
 />
 
-
-### 🏫 고!길동 (Go! Gildong)
-> 학교 접근성 데이터를 제공하는 웹 서비스
+<h3>🏫 고!길동 (Go! Gildong)</h3>
+<em>학교 접근성 데이터를 제공하는 웹 서비스</em>
 
 <p>
 이동이 불편한 학생과 보호자를 위해<br/>
@@ -80,54 +77,58 @@
 학교 접근성 정보를 제공합니다.
 </p>
 
-<hr/>
-
-<p>
-<strong>Team</strong> : 길동이 &nbsp; | &nbsp;
-<strong>Role</strong> : Team Lead / Backend Lead
-</p>
-
-<hr/>
-
-<p>
-<strong>Tech Stack</strong><br/>
-🧩 <em>Backend</em> : Java 17, Spring Boot, JPA, Lombok, Redis, PostgreSQL<br/>
-☁ <em>DevOps</em> : Docker, AWS EC2, AWS RDS, AWS S3, GitHub Actions
-</p>
-
-<hr/>
-
-<p>
-<strong>Key Contributions</strong><br/>
-🔹 포인트 시스템 구축<br/>
-🔹 관리자 통계 조회 및 출력 기능<br/>
-🔹 전체 / 교내 / 학교별 포인트 랭킹 계산 API<br/>
-🔹 휠체어 관리 기능<br/>
-🔹 퀴즈 시스템 구현<br/>
-🔹 서버 배포 및 아키텍처 관리
-</p>
-
-<hr/>
-
-<p>
-<a href="https://github.com/EFUB-AWA-1/Gogildong_Server">🔗 GitHub</a>  
-<a href="https://www.youtube.com/watch?v=jPUrGcPT_-8">🎥 Demo</a>
-</p>
-
 </td>
 
-<!-- Project Card 2 : New Valance -->
-<td align="center" width="50%" style="padding:16px">
+<!-- RIGHT : Info -->
+<td width="55%" valign="top" style="padding:20px">
+<hr/>
+<strong>Team / Role</strong><br/>
+길동이 | Team Lead / Backend Lead
+
+<hr/>
+
+<strong>Tech Stack</strong><br/>
+• Backend : Java 17, Spring Boot, JPA, Lombok, Redis, PostgreSQL<br/>
+• DevOps : Docker, AWS EC2, AWS RDS, AWS S3, GitHub Actions
+
+<hr/>
+
+<strong>Key Contributions</strong><br/>
+• 포인트 시스템 구축<br/>
+• 관리자 통계 조회 및 출력 기능<br/>
+• 전체 / 교내 / 학교별 포인트 랭킹 계산 API<br/>
+• 휠체어 관리 기능<br/>
+• 퀴즈 시스템 구현<br/>
+• 서버 배포 및 아키텍처 관리, 운영 자동화
+
+<hr/>
+
+<strong>Links</strong><br/>
+<a href="https://github.com/EFUB-AWA-1/Gogildong_Server">🔗 GitHub</a> &nbsp; | &nbsp;
+<a href="https://www.youtube.com/watch?v=jPUrGcPT_-8">🎥 Demo</a>
+<hr/>
+</td>
+
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- ===== Project 2 : New Valance ===== -->
+<table width="100%">
+<tr>
+
+<!-- LEFT -->
+<td width="45%" align="center" valign="top" style="padding:20px">
 
 <img
-  alt="New Valance"
   src="https://github.com/user-attachments/assets/3fa6a514-1055-4679-9262-2c5ed9397401"
-  style="width:100%; max-width:360px; height:auto; border-radius:12px; background:white; padding:12px;"
+  style="width:100%; max-width:260px; height:auto; border-radius:12px; background:white; padding:12px;"
 />
 
 
-### 📰 New Valance
-> 뉴스 숏폼 영상 기반 사회 이슈 컨텐츠 제공 서비스
+<h3>📰 New Valance</h3>
+<em>뉴스 숏폼 영상 기반 사회 이슈 학습 서비스</em>
 
 <p>
 긴 글 뉴스를 읽기 어려운 현대인을 위해<br/>
@@ -135,46 +136,41 @@
 모바일 기반 뉴스 숏폼 플랫폼입니다.
 </p>
 
+</td>
+
+<!-- RIGHT -->
+<td width="55%" valign="top" style="padding:20px">
+<hr/>
+<strong>Team / Role</strong><br/>
+쌈뽕 워리어즈 | Team Lead / Backend Dev
+
 <hr/>
 
-<p>
-<strong>Team</strong> : 쌈뽕 워리어즈 &nbsp; | &nbsp;
-<strong>Role</strong> : Team Lead / Backend Dev
-</p>
-
-<hr/>
-
-<p>
 <strong>Tech Stack</strong><br/>
-🧩 <em>Backend</em> : Java 17, Spring Boot, JPA, Lombok, MySQL<br/>
-☁ <em>DevOps</em> : Docker, AWS EC2, AWS RDS, AWS S3
-</p>
+• Backend : Java 17, Spring Boot, JPA, Lombok, MySQL<br/>
+• DevOps : Docker, AWS EC2, AWS RDS, AWS S3
 
 <hr/>
 
-<p>
 <strong>Key Contributions</strong><br/>
-🔹 백엔드 API 전반 설계 및 구현<br/>
-🔹 서버 배포 및 인프라 구성<br/>
-🔹 아키텍처 관리 및 운영 자동화
-</p>
+• 백엔드 API 전반 설계<br/>
+• 백엔드 API 전반 구현<br/>
+• 발표자료 준비 및 최종발표 진행<br/>
+• 서버 배포 및 인프라 구성<br/>
+• 아키텍처 관리 및 운영 자동화
 
 <hr/>
 
-<p>
-<a href="https://github.com/SSambbongWarriors">🔗 GitHub</a>  
+<strong>Links</strong><br/>
+<a href="https://github.com/SSambbongWarriors">🔗 GitHub</a> &nbsp; | &nbsp;
 <a href="https://www.youtube.com/watch?v=heN-_Qy-Jx4">🎥 Demo</a>
-</p>
-
+<hr/>
 </td>
 
 </tr>
 </table>
 
-</div>
-
-<br/><br/>
-
+<br/>
 
 
 ## 📜 Career & Achievements
