@@ -5,7 +5,7 @@
 <div align="center">
 ✨ Developer | Service Designer | gimye ✨  
 <br/>
-접근성과 기술로 더 나은 환경을 만듭니다.
+김예린 Kim Yerin
 </div>
 
 <br />
